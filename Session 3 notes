@@ -1,0 +1,11 @@
+What is a Git?
+A git is a version control system. 
+
+What will we be using github for?
+For uploading our notes, homework and quizzes
+
+Command                              Desciption
+git status 	                         shows the status of any additions/modifications/deletions
+git add * 	                         adds the files to local
+git commit -m"some comment' 	       commits to local repository
+git push origin master 	             finally they are in your github account
