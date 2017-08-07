@@ -1,0 +1,13 @@
+Int -> Numbers without decimals
+String -> words
+double -> Numbers with decimals.
+
+Syntax is grammar for coding
+
+Datatype Variablename = value;
+strings are represented with quotation marks 
+
+If statements are useful when comparing datatypes 
+Looping is useful when you want a sequence to repeat itself continously
+
+// means you are inserting a comment
