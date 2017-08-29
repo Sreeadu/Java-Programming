@@ -1,0 +1,6 @@
+- If you need the computer to take user imput, you can use scanner
+- you can refer to the MinMaxSample 
+- write in the syntax first and do the code later
+- % finds the remainder
+- use this logic to find out whether a number is even or odd
+- refer to EvenOddSample
