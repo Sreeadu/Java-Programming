@@ -1,0 +1,38 @@
+1. 
+
+RAM stands for Random Access Memory. RAM is similar to a scratchpad. You can use it and throw it away when you are done.
+When you shut down your computer, everything in your RAM will be gone.
+ 
+CPU stands for Central Processing Unit. The CPU is similar to your brain.
+
+2.
+
+3. ASCII is used to change things from decimal system to binary system.
+
+4. Java is easier to learn than most other languages because it is object oriented.
+
+5. Grammar/Punctuation
+
+6. Semicolons
+
+7. for, if
+
+8. A datatype is something that you use to define what kind of variable your variable is. It could be an integer, a word, etc.
+
+9. int, String
+
+10. a blueprint, plan, cookiecutter
+
+11. an object is the house that came from the blueprint or the cookie that came from the cookiecutter
+
+12. the main method
+
+13. its a set of instructions on how to achieve a task, or a behavior
+
+14. class level
+
+15. 
+
+Encapsulation - when you put things of a similar group together, hiding the details
+
+Inheiritance - when you get something from another class by using the word "extends", without having to write the method again, reusing the methods
