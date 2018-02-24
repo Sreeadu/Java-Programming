@@ -5,7 +5,7 @@ When you shut down your computer, everything in your RAM will be gone.
  
 CPU stands for Central Processing Unit. The CPU is similar to your brain.
 
-2.
+2. a bit.
 
 3. ASCII is used to change things from decimal system to binary system.
 
@@ -13,7 +13,7 @@ CPU stands for Central Processing Unit. The CPU is similar to your brain.
 
 5. Grammar/Punctuation
 
-6. Semicolons
+6. Semicolons, Curly Brackets
 
 7. for, if
 
