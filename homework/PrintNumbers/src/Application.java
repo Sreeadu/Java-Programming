@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 454bec81dbbd39d7cdfa47cfe5e1116e9f08c531
 public class Application {
 
 	public static void main(String[] args) {

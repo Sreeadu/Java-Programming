@@ -1,0 +1,7 @@
+- you can make your own class/datatype!
+- outside of static, label the features of the class
+- ^remember to write the type first and then the name of the feature, dont forget to include syntax
+- ^also write the code below the title of the class though
+- to use the class, write: Person p1 = new Person ();
+- refer to MyOwnDataSample
+- not every line ends with ;

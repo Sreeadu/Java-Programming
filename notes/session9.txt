@@ -1,0 +1,9 @@
+The first part of encapsulation is about putting related things in the same class.
+like you can put all your car stuff in one class and your monkey stuff in another class. 
+if you put your monkey stuff and your car stuff together, it will mess up your program and look really unorganized.
+
+The second part is about hiding things that are there but dont need to be seen.
+when you start up your car, the gas is being pumped and your chamber is being ignited. 
+but you dont see it happening everytime you start you car, do you? no. 
+the car people put it there because it needs to happen, but they dont show you because you dont need to see it.
+if you put private in front, instead of public, the program will hide the method, even if it is called in the main method.

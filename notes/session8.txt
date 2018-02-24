@@ -1,0 +1,5 @@
+fields are also known as variables in class
+actions are refered to as methods or functions sometimes
+methods in the class can access the fields in the class
+boolean variables can only take a yes or a no for an answer
+refer to the car class to see all of the above ^^^

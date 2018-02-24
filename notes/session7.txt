@@ -1,0 +1,22 @@
+   Syntax for "if & else"  
+   
+   if( ... ){
+
+    }else if(...){
+
+    }else if(...){
+
+    }else if(...){
+
+    }else{
+        // If none of the above matches things will be executed here.
+    }
+
+Syntax for "for"
+  for( ;  ; ){
+
+    }
+
+object, variable, and instance are all words for class
+action, method, and function, are all the same
+make sure to declare your variables in the right places
